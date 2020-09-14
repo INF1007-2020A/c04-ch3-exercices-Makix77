@@ -32,7 +32,7 @@ def to_celsius(temperature: float) -> float:
 
 
 def to_farenheit(temperature: float) -> float:
-    print(to_degrees())
+    print(to_degrees(2))
     return temperature * 1.8 + 32
 
 
